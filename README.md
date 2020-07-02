@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I don't like magento, I have a rage playlist :) [spotify](https://open.spotify.com/playlist/5YMtRCWJxAw2MBxQBrBtlF?si=8wjw9EB4QImjcZQWisGJ6g)
+
+
 <!--
 **Schaerpe/Schaerpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
